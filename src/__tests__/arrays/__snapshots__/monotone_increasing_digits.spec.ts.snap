@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Monotone SubArray Test should render the correct output via snapshot 1`] = `1e+23`;
+
+exports[`Monotone SubArray Test should render the correct output via snapshot 2`] = `10000000000000000000`;
+
+exports[`Monotone SubArray Test should render the correct output via snapshot 3`] = `1e+22`;
